@@ -1,0 +1,10 @@
+{
+    "name":"samsonos/php_jquery_ui",
+    "description":"SamsonPHP JqueryUI",
+    "author":"Pavlo Onysko <onysko@samsonos.com>",
+    "require":{
+        "samsonos/php_jquery":"*"
+    },
+    "license":"Open Software License (OSL) v 3.0",
+    "homepage":"http://samsonos.com/"
+}
